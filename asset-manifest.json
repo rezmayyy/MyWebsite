@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/MyWebsite/static/css/main.03122068.css",
+    "main.js": "/MyWebsite/static/js/main.da45f6fb.js",
+    "static/js/453.f69bbbff.chunk.js": "/MyWebsite/static/js/453.f69bbbff.chunk.js",
+    "static/media/LunarTears.png": "/MyWebsite/static/media/LunarTears.6b9152eb8df4a017c985.png",
+    "static/media/TribeWellPic.png": "/MyWebsite/static/media/TribeWellPic.ea6c973f64c2098bfdb5.png",
+    "static/media/YoloPic.png": "/MyWebsite/static/media/YoloPic.fc90b0d48f3d6c47d7b1.png",
+    "static/media/MyTunesPic.png": "/MyWebsite/static/media/MyTunesPic.4fb3baec8ae0da3769c9.png",
+    "index.html": "/MyWebsite/index.html",
+    "main.03122068.css.map": "/MyWebsite/static/css/main.03122068.css.map",
+    "main.da45f6fb.js.map": "/MyWebsite/static/js/main.da45f6fb.js.map",
+    "453.f69bbbff.chunk.js.map": "/MyWebsite/static/js/453.f69bbbff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03122068.css",
+    "static/js/main.da45f6fb.js"
+  ]
+}
