@@ -8,3 +8,9 @@
   object-fit: contain;
   pointer-events: none;
 }
+
+/* Round the corners of the hamburger icon */
+.navbar-toggler-icon {
+    background-color: #0096FF;        /* Color */
+    border-radius: 2px;            /* Adjust the value to make corners rounder */
+}

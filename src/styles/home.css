@@ -40,3 +40,9 @@
 .fade-out-down {
   animation: fadeOutDown 1.2s ease-out forwards;
 }
+
+@media (max-width: 768px) {
+  #home {
+    background-attachment: scroll;
+  }
+}

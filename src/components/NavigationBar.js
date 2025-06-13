@@ -5,13 +5,13 @@ import BlueMoon from '../assets/BlueMoon.jpg';
 
 function scrollToTop() {
   window.scrollTo({ top: 0, behavior: 'smooth' });
-  window.history.pushState(null, '', '#home'); // Change URL to #home without reloading
+  window.history.pushState(null, '', '#home'); 
 }
 
 function NavigationBar() {
 
     return (
-        <Navbar bg="black" className="py-5" sticky="top">
+        <Navbar bg="black" className="py-5" sticky="top" expand="lg">
             <Container>
                 <Navbar.Toggle aria-controls="navbar-content" />
                 <Navbar.Collapse id="navbar-content">
