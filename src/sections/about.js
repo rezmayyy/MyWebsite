@@ -1,6 +1,5 @@
 import { Container, Row, Col } from 'react-bootstrap';
 import { useEffect, useState } from 'react';
-import '../styles/about.css';
 
 function About() {
     const [visible, setVisible] = useState(false);
@@ -43,10 +42,11 @@ function About() {
                             realization that it is very difficult to be an expert at everything in this field, 
                             but I see it as a challenge to keep on learning and to continuously strive for greatness. 
                             The reason I got into coding was because of video games. I enjoy being able to escape 
-                            reality and jump into a world that is only restricted by the imagination. Coding 
+                            reality and jump into a world that is only limited by the imagination. Coding 
                             isn’t just pressing buttons on a keyboard. Coding is an outlet to express 
                             creativity through whatever that is being created.
                         </p>
+                        <div id="projects"/>
                     </Col>
                 </Row>
             </Container>
