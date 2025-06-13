@@ -58,17 +58,17 @@ function Projects() {
                                         Smith and her company is Serendipity Innovation. I learned a lot making this project and
                                         Dr. Gigi allowed me to work with her post-graduation.
                                         <br />
-                                        <strong>Tech Stack:</strong> React · Stripe · Firebase (Firestore, Authentication, Storage, Cloud Functions)
+                                        <strong>Tech Stack:</strong> React · Stripe · Firebase (Firestore, Authentication, Storage, Cloud Functions)<br></br>
+                                        Check out the code
+                                        <a
+                                            href="https://github.com/rezmayyy/GitBudsProject"
+                                            target="_blank"
+                                            rel="noopener noreferrer"
+                                            style={{ color: '#00C3FF', textDecoration: 'underline', marginLeft: '5px' }}
+                                        >
+                                            here!
+                                        </a>
                                     </p>
-                                    Check out the code
-                                    <a
-                                        href="https://github.com/rezmayyy/GitBudsProject"
-                                        target="_blank"
-                                        rel="noopener noreferrer"
-                                        style={{ color: '#00C3FF', textDecoration: 'underline', marginLeft: '5px' }}
-                                    >
-                                        here!
-                                    </a>
                                     <img
                                         src={TribeWellPic}
                                         alt="TribeWell Project Screenshot"
@@ -96,17 +96,17 @@ function Projects() {
                                         Smart contracts were built and tested with Ganache, and the React frontend offers real-time
                                         blockchain interaction.
                                         <br />
-                                        <strong>Tech Stack:</strong> React · Solidity · Truffle · IPFS · MetaMask
+                                        <strong>Tech Stack:</strong> React · Solidity · Truffle · IPFS · MetaMask<br></br>
+                                        Check out the code
+                                        <a
+                                            href="https://github.com/rezmayyy/DecentralizedMusicApp"
+                                            target="_blank"
+                                            rel="noopener noreferrer"
+                                            style={{ color: '#00C3FF', textDecoration: 'underline', marginLeft: '5px' }}
+                                        >
+                                            here!
+                                        </a>
                                     </p>
-                                    Check out the code
-                                    <a
-                                        href="https://github.com/rezmayyy/DecentralizedMusicApp"
-                                        target="_blank"
-                                        rel="noopener noreferrer"
-                                        style={{ color: '#00C3FF', textDecoration: 'underline', marginLeft: '5px' }}
-                                    >
-                                        here!
-                                    </a>
                                     <img
                                         src={MyTunesPic}
                                         alt="MyTunes Project Screenshot"
@@ -134,17 +134,17 @@ function Projects() {
                                         We used YOLO Nano for object detection, MediaPipe for finger tracking, and EasyOCR for reading text.
                                         Initially tested on a Raspberry Pi but later demoed on a laptop for performance reasons.
                                         <br />
-                                        <strong>Tech Stack:</strong> Python · YOLO Nano · EasyOCR · MediaPipe · Raspberry Pi
+                                        <strong>Tech Stack:</strong> Python · YOLO Nano · EasyOCR · MediaPipe · Raspberry Pi <br></br>
+                                        Check out the code
+                                        <a
+                                            href="https://github.com/christian-buco/Voice-Vision"
+                                            target="_blank"
+                                            rel="noopener noreferrer"
+                                            style={{ color: '#00C3FF', textDecoration: 'underline', marginLeft: '5px' }}
+                                        >
+                                            here!
+                                        </a>
                                     </p>
-                                    Check out the code
-                                    <a
-                                        href="https://github.com/christian-buco/Voice-Vision"
-                                        target="_blank"
-                                        rel="noopener noreferrer"
-                                        style={{ color: '#00C3FF', textDecoration: 'underline', marginLeft: '5px' }}
-                                    >
-                                        here!
-                                    </a>
                                     <img
                                         src={YoloPic}
                                         alt="Voice Vision Project Screenshot"
@@ -161,6 +161,7 @@ function Projects() {
                         </Accordion>
                     </Col>
                 </Row>
+                <div id="contact"></div>
             </Container>
         </section>
     );
